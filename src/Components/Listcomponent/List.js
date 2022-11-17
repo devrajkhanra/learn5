@@ -1,8 +1,12 @@
 import React from 'react'
 
-const List = () => {
+const List = ({ items }) => {
     return (
-        <div>List</div>
+        <ul>
+            {items.map((item) => (
+                <></>
+            ))}
+        </ul>
     )
 }
 
