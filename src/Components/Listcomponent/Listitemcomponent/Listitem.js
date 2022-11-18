@@ -3,7 +3,7 @@ import React from 'react'
 const Listitem = ({ item }) => {
     return (
         <li>
-            {item.name}
+            {JSON.stringify(item)}
         </li>
     )
 }

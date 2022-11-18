@@ -1,5 +1,5 @@
 import React from 'react'
-import Listitem from '../Listitemcomponent/Listitem'
+import Listitem from './Listitemcomponent/Listitem'
 
 const List = ({ items }) => {
     return (
