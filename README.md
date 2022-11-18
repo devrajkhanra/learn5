@@ -1,5 +1,5 @@
 # This is a react app which calls an external api and populates data within table.
-API used ['https://jsonplaceholder.typicode.com/'](Jsonplaceholder)
+API used (Jsonplaceholder)['https://jsonplaceholder.typicode.com/']
 
 ## React functionality used.
 functional component, reusable component\
